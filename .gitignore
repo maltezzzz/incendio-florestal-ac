@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Lembrete pessoal de entrega (não vai pro GitHub)
+_ENTREGA_leia-me.txt
